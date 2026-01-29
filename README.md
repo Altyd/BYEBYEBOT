@@ -98,7 +98,3 @@ The ByeByeBots Chrome Extension was created with contributions from the followin
 - [Franco](https://github.com/Altyd)
 
 ---
-## supportme
-All and any support would be highly appreciated as I made this myself. This would also help put this extension on the chrome extension store thus making it even easier to use!
-
-- [PayPal](https://www.paypal.com/paypalme/neeltroy)
